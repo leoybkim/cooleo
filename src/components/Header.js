@@ -10,6 +10,7 @@ const Header = (props) => {
   );
 };
 
+// viewStyle, textStyle is an arbitrary name
 const styles = {
   viewStyle: {
     backgroundColor: '#F8F8F8',
